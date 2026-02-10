@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Arroz",
+      "quantidade": 5,
+      "unidade": "kg"
+    },
+    {
+      "id": 2,
+      "nome": "Feijão",
+      "quantidade": 3,
+      "unidade": "kg"
+    }
+  ]
+}
